@@ -1,0 +1,11 @@
+{
+  "name": "winston-wen-portfolio",
+  "version": "1.0.0",
+  "description": "Winston Wen 的个人作品集网站，模仿 yingstudio.cc 的新粗野主义风格。",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "license": "MIT"
+}
+
