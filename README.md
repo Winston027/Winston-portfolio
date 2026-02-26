@@ -1,6 +1,6 @@
 # Winston Wen Studio
 
-一个为内容设计师 Winston Wen 打造的个人作品集网站，整体风格参考了 [YING's Studio](https://yingstudio.cc) 的新粗野主义视觉。
+一个为内容设计师 Winston Wen 打造的个人作品集网站，整体风格参考了新粗野主义视觉。
 
 网站特征：
 
